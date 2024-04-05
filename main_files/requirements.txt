@@ -1,0 +1,15 @@
+pandas
+joblib
+scikit-learn
+streamlit
+opencv-python==4.8.1.78
+mediapipe
+PyAutoGUI
+numpy
+importlib
+pillow
+SQLAlchemy
+google
+google-generativeai
+streamlit-modal
+libgl1-mesa-glx
